@@ -1,2 +1,2 @@
 # space-station.repo
-all my personal suckless builds, xscripts, etc.
+all my story ideas and my tentative website i guess
